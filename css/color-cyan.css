@@ -1,0 +1,52 @@
+/* -----------------------------------
+**   Cyan Color
+-------------------------------------*/
+a:hover, a:focus {
+  color: #4bbfcb;
+}
+
+.base-color,
+.top-search-input-wrap .search-wrap .search.educon-top-search .sp_search_input::after {
+  color: #4bbfcb;
+}
+
+.base-bg,
+#easy-menu ul ul,
+.option-button:hover,
+.rs-range-color,
+.option-button:focus,
+.widget.base-bg,
+.blog-tags a:hover,
+.option-button,
+.form-submit input[type="submit"],
+.form-submit input[type="submit"]:hover,
+.form-submit input[type="submit"]:focus,
+.preloader {
+  background: #4bbfcb;
+}
+
+.blog-tags a:hover,
+input[type="text"]:focus,
+input[type="password"]:focus,
+input[type="date"]:focus,
+input[type="url"]:focus,
+input[type="search"]:focus,
+input[type="text"]:focus,
+input[type="email"]:focus,
+input[type="tel"]:focus,
+input[type="time"]:focus,
+.form-control:focus,
+textarea:focus,
+textarea.form-control:focus {
+  border-color: #4bbfcb;
+}
+
+.map-address-container {
+  background: #4bbfcb;
+}
+
+#easy-menu ul ul li {
+  border-color: #fff;
+}
+
+/*# sourceMappingURL=color-cyan.css.map */

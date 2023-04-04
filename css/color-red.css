@@ -1,0 +1,51 @@
+/* -----------------------------------
+**   Red Color
+-------------------------------------*/
+a:hover, a:focus {
+  color: #e73f37;
+}
+
+.base-color {
+  color: #e73f37;
+}
+
+.base-bg,
+#easy-menu ul ul,
+.option-button:hover,
+.rs-range-color,
+.option-button:focus,
+.widget.base-bg,
+.blog-tags a:hover,
+.option-button,
+.form-submit input[type="submit"],
+.form-submit input[type="submit"]:hover,
+.form-submit input[type="submit"]:focus,
+.preloader {
+  background: #e73f37;
+}
+
+.blog-tags a:hover,
+input[type="text"]:focus,
+input[type="password"]:focus,
+input[type="date"]:focus,
+input[type="url"]:focus,
+input[type="search"]:focus,
+input[type="text"]:focus,
+input[type="email"]:focus,
+input[type="tel"]:focus,
+input[type="time"]:focus,
+.form-control:focus,
+textarea:focus,
+textarea.form-control:focus {
+  border-color: #e73f37;
+}
+
+.map-address-container {
+  background: #e73f37;
+}
+
+#easy-menu ul ul li {
+  border-color: #fff;
+}
+
+/*# sourceMappingURL=color-red.css.map */

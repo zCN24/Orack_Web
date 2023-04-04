@@ -1,0 +1,52 @@
+/* -----------------------------------
+**   Orange Color
+-------------------------------------*/
+a:hover, a:focus {
+  color: #f39a24;
+}
+
+.base-color,
+.top-search-input-wrap .search-wrap .search.educon-top-search .sp_search_input::after {
+  color: #f39a24;
+}
+
+.base-bg,
+#easy-menu ul ul,
+.option-button:hover,
+.rs-range-color,
+.option-button:focus,
+.widget.base-bg,
+.blog-tags a:hover,
+.option-button,
+.form-submit input[type="submit"],
+.form-submit input[type="submit"]:hover,
+.form-submit input[type="submit"]:focus,
+.preloader {
+  background: #f39a24;
+}
+
+.blog-tags a:hover,
+input[type="text"]:focus,
+input[type="password"]:focus,
+input[type="date"]:focus,
+input[type="url"]:focus,
+input[type="search"]:focus,
+input[type="text"]:focus,
+input[type="email"]:focus,
+input[type="tel"]:focus,
+input[type="time"]:focus,
+.form-control:focus,
+textarea:focus,
+textarea.form-control:focus {
+  border-color: #f39a24;
+}
+
+.map-address-container {
+  background: #f39a24;
+}
+
+#easy-menu ul ul li {
+  border-color: #fff;
+}
+
+/*# sourceMappingURL=color-orange.css.map */
