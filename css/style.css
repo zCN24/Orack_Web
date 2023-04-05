@@ -1482,7 +1482,7 @@ input[type="submit"] {
 ** Testimonail
 -------------------------------------*/
 .testimonail-area {
-  background: url("../images/testimonial-bg.jpg");
+  background: url("../images/bg/bg6.jpg");
   position: relative;
   background-size: cover;
   background-attachment: fixed;
